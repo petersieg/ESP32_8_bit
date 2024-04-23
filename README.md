@@ -19,7 +19,7 @@
     |         |
     |         |     3.3v <--+-+   IR Receiver
     |         |      gnd <--|  )  TSOP4838 etc.
-    |       0 |-------------+-+   (Optional)
+    |       0 |-------------+-+   (Optional) - I changed to pin D15, because this is nicely near edge and +3.3V and GND.
     -----------
 
 ```
@@ -216,3 +216,11 @@ Play through the included demos. Load up your own. Write some Atari Basic master
 Enjoy,
 
 rossum
+
+---
+
+# Simple pcb 
+
+There is no real need for a pcb - but they are cheap nowadays and results in a nive and clean build.
+See file pcb.zip for eagle and gerber files - I send them to JLCPCB and they worked as expected.
+
