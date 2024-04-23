@@ -224,7 +224,7 @@ rossum
 There is no real need for a pcb - but they are cheap nowadays and results in a nive and clean build.
 See file pcb.zip for eagle and gerber files - I send them to JLCPCB and they worked as expected.
 
-![pcb_pinout]https://github.com/petersieg/ESP32_8_bit/blob/master/esp32_8_bit.png
+![pcb_pinout](https://github.com/petersieg/ESP32_8_bit/blob/master/esp32_8_bit.png)
 
-![pcb_pinout]esp32_8_bit.png
+![pcb_pinout](esp32_8_bit.png)
 
