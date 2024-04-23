@@ -15,9 +15,9 @@
 ** SOFTWARE.
 */
 
-#define VIDEO_PIN   26
+#define VIDEO_PIN   25
 #define AUDIO_PIN   18  // can be any pin
-#define IR_PIN      0   // TSOP4838 or equivalent on any pin if desired
+#define IR_PIN      15  // TSOP4838 or equivalent on any pin if desired
 
 int _pal_ = 0;
 
